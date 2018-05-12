@@ -1,0 +1,29 @@
+_repo: Buffalo-Bill-s-Spy-Trailer--13-Or-The-Stranger-in-Camp_29792
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingraham, Prentiss
+    birthdate: 1843
+    deathdate: 1904
+    gutenberg_agent_id: '6139'
+    url: http://www.gutenberg.org/2009/agents/6139
+description: A legendary figure of the Wild West who was canny enough to capitalize
+  off of his own notoriety, William Cody was a renowned soldier and hunter. This action-packed
+  tale parlays some of the historical facts surrounding Buffalo Bill's life into a
+  larger-than-life, thrill-a-minute Western.
+gutenberg_issued: '2009-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29792'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buffalo Bill, 1846-1917 -- Fiction'
+- !lcc 'PS'
+title: Buffalo Bill's Spy Trailer; Or, The Stranger in Camp
+url: http://www.gutenberg.org/ebooks/29792
